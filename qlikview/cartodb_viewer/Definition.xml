@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="CartoDB Map Viewer">
+    <Text Label="Visualization URL" Type="text" />
+</ExtensionObject>
+
