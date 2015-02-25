@@ -1,0 +1,10 @@
+{
+	"name": "CartoDB Map Viewer",
+	"description": "Viewer for CartoDB visualizations",
+	"icon": "map",
+	"type": "visualization",
+	"version": 1,
+	"preview": "map",
+	"author": "Daniel Carrion"
+}
+
