@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="CartoDB Map with selector">
+    <Text Label="Visualization URL" Type="text" />
+    <Text Label="Selector id" Type="text" />
+    <Text Label="Table name" Type="text" />
+    <Text Label="Field name" Type="text" />
+</ExtensionObject>
+
