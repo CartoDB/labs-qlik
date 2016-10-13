@@ -2,6 +2,8 @@
 
 CartoDB maps can be embedded in QlikView and Qlik Sense. While the integration typically works on a per-user-case basis, basic integration is really easy to achieve. This repo includes the source code for a handful of basic extensions for both QlikView and Qlik Sense that can be used as the foundation of a more complex integration of CartoDB in any of these two Qlik products.
 
+**If you are using Qlik Sense, we highly encourage you to use our new [Open in CARTO extension](https://github.com/CartoDB/qlik-open-in-carto). Open in CARTO supports new dashboard visualizations and can also send data from Qlik to CARTO if needed.**
+
 ## QlikView
 
 ### Basic viewer
